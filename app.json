@@ -6,7 +6,7 @@
   "keywords": ["telegram", "bot", "tiktok"],
   "env": {
     "ENVIRONMENT": "Heroku",
-    "API_TOKEN": {5251904937:AAHJwen8S-ptMtXgzluEY98EGLbFyTy07Zw
+    "API_TOKEN": {
             "description": "API Token for your Telegram bot (take it from BotFather)",
             "required": true
     },
